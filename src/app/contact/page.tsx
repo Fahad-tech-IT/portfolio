@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { Box, Button, Container, TextField, Typography, Rating, Stack, Paper } from "@mui/material";
+import { Box, Button, TextField, Typography, Rating, Stack, Paper } from "@mui/material";
 
 const Contact = () => {
   const [formData, setFormData] = useState({ name: "", email: "", message: "" });

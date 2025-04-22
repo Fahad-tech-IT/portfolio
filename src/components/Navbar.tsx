@@ -1,5 +1,5 @@
 "use client";
-import { AppBar, Toolbar, Typography, Button, Box, Avatar } from "@mui/material";
+import { AppBar, Toolbar, Typography, Button, Box} from "@mui/material";
 import Link from "next/link";
 
 const Navbar = () => {
